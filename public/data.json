@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/m93J7TR/Health.png",
+        "title": "Clean Water for Children",
+        "category": "health",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#E8E8E8",
+        "text_button_bg_color": "#333333",
+        "description": "Description for Clean Water for Children Product 1",
+        "price": 29.99
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/Y3wTx56/Clothing.png",
+        "title": "Used Clothing Drive Item 1",
+        "category": "clothing",
+        "category_bg_color": "#45AAB4",
+        "card_bg_color": "#F0F0F0",
+        "text_button_bg_color": "#555555",
+        "description": "Description for Used Clothing Drive Item 1",
+        "price": 19.99
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/fCPvqMc/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "food",
+        "category_bg_color": "#FFD700",
+        "card_bg_color": "#FFE4B5",
+        "text_button_bg_color": "#8B4513",
+        "description": "Description for Better Food for Everyone Product 1",
+        "price": 9.99
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/W3cWw4X/Education.png",
+        "title": "Educational Book",
+        "category": "education",
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#F5F5F5",
+        "text_button_bg_color": "#4682B4",
+        "description": "Description for Educational Book 1",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/m93J7TR/Health.png",
+        "title": "Clean Water for Children",
+        "category": "health",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#E8E8E8",
+        "text_button_bg_color": "#333333",
+        "description": "Description for Clean Water for Children Product 2",
+        "price": 39.99
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/Y3wTx56/Clothing.png",
+        "title": "Used Clothing Drive Item 2",
+        "category": "clothing",
+        "category_bg_color": "#45AAB4",
+        "card_bg_color": "#F0F0F0",
+        "text_button_bg_color": "#555555",
+        "description": "Description for Used Clothing Drive Item 2",
+        "price": 24.99
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/fCPvqMc/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "food",
+        "category_bg_color": "#FFD700",
+        "card_bg_color": "#FFE4B5",
+        "text_button_bg_color": "#8B4513",
+        "description": "Description for Better Food for Everyone Product 2",
+        "price": 14.99
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/W3cWw4X/Education.png",
+        "title": "Educational Book",
+        "category": "education",
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#F5F5F5",
+        "text_button_bg_color": "#4682B4",
+        "description": "Description for Educational Book 2",
+        "price": 24.99
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/m93J7TR/Health.png",
+        "title": "Clean Water for Children",
+        "category": "health",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#E8E8E8",
+        "text_button_bg_color": "#333333",
+        "description": "Description for Clean Water for Children Product 3",
+        "price": 34.99
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/Y3wTx56/Clothing.png",
+        "title": "Used Clothing Drive Item 3",
+        "category": "clothing",
+        "category_bg_color": "#45AAB4",
+        "card_bg_color": "#F0F0F0",
+        "text_button_bg_color": "#555555",
+        "description": "Description for Used Clothing Drive Item 3",
+        "price": 14.99
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/fCPvqMc/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "food",
+        "category_bg_color": "#FFD700",
+        "card_bg_color": "#FFE4B5",
+        "text_button_bg_color": "#8B4513",
+        "description": "Description for Better Food for Everyone Product 3",
+        "price": 11.99
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/W3cWw4X/Education.png",
+        "title": "Used Clothing Drive Item 4",
+        "category": "education",
+        "category_bg_color": "#87CEEB",
+        "card_bg_color": "#F5F5F5",
+        "text_button_bg_color": "#4682B4",
+        "description": "Description for Used Clothing Drive Item 4",
+        "price": 29.99
+    }
+]
