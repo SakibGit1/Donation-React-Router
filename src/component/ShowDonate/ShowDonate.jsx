@@ -6,7 +6,7 @@ const ShowDonate = ({item}) => {
     return (
         <div>
             {/* <h1>donate items here</h1> */}
-            <div className=' '>
+            <div className='shadow-xl border  '>
                 <div>
                 <img src={picture} alt="" />
                 <p className='text-2xl font-bold'>{title}</p>
